@@ -1,0 +1,5 @@
+/Users/jaimedifolorenzo/Projects/AccessModifiers/AccessModifiers/obj/Debug/net7.0/AccessModifiers.csproj.AssemblyReference.cache
+/Users/jaimedifolorenzo/Projects/AccessModifiers/AccessModifiers/obj/Debug/net7.0/AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaimedifolorenzo/Projects/AccessModifiers/AccessModifiers/obj/Debug/net7.0/AccessModifiers.AssemblyInfoInputs.cache
+/Users/jaimedifolorenzo/Projects/AccessModifiers/AccessModifiers/obj/Debug/net7.0/AccessModifiers.AssemblyInfo.cs
+/Users/jaimedifolorenzo/Projects/AccessModifiers/AccessModifiers/obj/Debug/net7.0/AccessModifiers.csproj.CoreCompileInputs.cache
